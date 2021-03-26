@@ -23,5 +23,6 @@ package-lock.json
 # Coveralls
 coverage
 
-# Benchmarking
+# Benchmarkingpwd
+
 benchmarks/graphs
